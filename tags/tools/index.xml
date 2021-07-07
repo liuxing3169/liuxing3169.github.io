@@ -8,4 +8,22 @@ crond crond 守护程序会虽系统启动时启动，守护程序会每过一�
 它以其增量传输算法而闻名，该算法通过仅发送源文件与目标中现有文件之间的差异来减少通过网络发送的数据量。
 rsync 广泛用于备份和镜像，并作为日常使用的改进复制命令。
 同步两个磁盘 rsync -arv /run/media/liuxin/WDU /run/media/liuxin/WDG
-参考链接 https://linux.die.net/man/1/rsync</description></item></channel></rss>
+参考链接 https://linux.die.net/man/1/rsync</description></item><item><title>Chrome插件集锦</title><link>https://blog.liuxing3169.cn/software/tools/chrome-extensions-collect/</link><pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate><guid>https://blog.liuxing3169.cn/software/tools/chrome-extensions-collect/</guid><description>Chrome是市场份额排前三的主流浏览器，也是备受用户喜爱的一款浏览器，Chrome插件商城有非常多令人惊叹的插件，可以满足不同的使用场景，这里记录和介绍一些程序员经常使用的插件(未完全收录，不断补充中..)。
+APK Downloader 官网地址：https://apk.support
+介绍：直接下载APK文件，然后将应用程序手动安装到您的Android设备上。
+与此类似的网站有：
+https://apkpure.com/cn https://www.apkmirror.com https://apk-dl.com https://mobile.softpedia.com/apk/ https://www.getjar.com/ https://download.cnet.com/android/ Click&amp;amp;Clean 官网地址：https://www.hotcleaner.com
+介绍：当浏览器关闭时，这款应用程序删除你的浏览历史，防止他人跟踪你的网上活动。
+Full Page Screen Capture 官网地址：https://gofullpage.com
+介绍：完整而可靠地捕获当前页面的屏幕截图，而无需请求任何额外的权限！将结果导出为PNG，JPEG或各种PDF纸张大小-所有这些都可以通过扩展程序的选项进行配置
+捕捉网页截图 - FireShot 官网地址：https://screenshot-program.com
+介绍：捕捉网页截图，编辑并将它们保存为PDF，JPEG，GIF，PNG或BMP；上传，打印，在Photoshop中打开，复制到剪贴板或电子邮件
+捕捉整个页面 捕捉可见的部分 捕捉选择部分 截图保存到磁盘为PDF，PNG和JPEG 截图复制到剪贴板 打印截图 Momentum 官网地址：https://momentumdash.com
+介绍：用具有待办事项，天气和灵感的个人仪表板替换新的标签页。 新标签页可让您保持冷静，并激发您提高工作效率。每天的照片和报价来激发灵感，设置每天的焦点并跟踪您的待办事项。在每个新标签页上，提醒您每天关注的重点，从而消除干扰并避免拖延。加入超过300万用户，并激发灵感，创造您想要的生活。
+Octotree 官网地址：https://www.octotree.io
+介绍：将您的GitHub体验提升到一个新的水平。
+特征:
+易于浏览的代码树，就像在IDE中一样 使用pjax快速浏览文件 显示拉取请求更改 支持私有存储库 二维码生成器 (Quick QR) 官网地址：https://high-qr-code-generator.com
+介绍：Chrome上好评率最高的二维码生成器：可以方便地把当前页面转化成二维码，也可以把网页上任何文本或链接，甚至是您输入的任意内容都转化成二维码。
+主要功能如下：
+为当前页面生成二维码 为页面上任一链接生成二维码 输入任何内容生成二维码 无需联网、无需授权（安全可靠） 二维码分辨率可自行设置，支持高清二维码 支持Logo、批量生成（点击相应按钮） 支持快捷键（可设置） 支持右键菜单（可设置） 可解析网页上的描任何二维码图片：6.3后新增功能，请在『设置』-『Advanced』中开启，之后便可在二维码图片上按右键，进行『解析』（也叫『扫描』） 可下载二维码图片，下载图片文件名中会包含尺寸信息，例如：exported_qrcode_image_350.png Save as PDF 官网地址：https://pdfcrowd.</description></item></channel></rss>

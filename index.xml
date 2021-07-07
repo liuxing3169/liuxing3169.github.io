@@ -20,4 +20,22 @@ rsync 广泛用于备份和镜像，并作为日常使用的改进复制命令�
 “关注和构建注重隐私，相对足够安全的物联网解决方案。”</description></item><item><title>Python Web 框架对比</title><link>https://blog.liuxing3169.cn/software/backend/python/python-web-framework/</link><pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate><guid>https://blog.liuxing3169.cn/software/backend/python/python-web-framework/</guid><description>PythonAnyWhere支持的 Python 框架有: Django web2py Flask Bottle Python 官方Wiki提及的Python Web 框架有: Django TurboGears web2py 2020 排名 Top13 Full-stack frameworks 全栈框架或企业框架是将库配置为无缝协同工作的一体化解决方案。它支持后端服务，前端接口和数据库的开发。全栈框架可提供开发人员构建应用程序所需的一切。Python提供了多个完整的框架。
 Django Pyramid TurboGears Web2py Microframeworks 微框架或简约的Web应用程序框架缺少完整框架的大部分功能，例如Web模板引擎，身份验证功能，帐户，授权，输入验证和输入环境卫生。微框架试图仅提供构建应用程序所需的组件集。它还可能专注于为一个特定领域提供必要的功能。
 Flask Bottle CherryPy Falcon Hug FastAPI Asynchronous frameworks 异步框架是一种相对较新的Python框架。这是一个微框架，使开发人员能够处理大量并发连接。异步框架使用非阻塞套接字，feed on Python’s asyncio library。
-Sanic Tornado 其他 Dash 各框架官网及文档地址： Django 文档 代码仓库 web2py 文档 代码仓库 Flask 文档 代码仓库 Bottle 文档 代码仓库 Pyramid 文档 代码仓库 TurboGears 文档 代码仓库 CherryPy 文档 代码仓库 Falcon 文档 代码仓库 Hug 文档 代码仓库 FastAPI 文档 代码仓库 Sanic 文档 代码仓库 Grok 文档 代码仓库 Tornado 文档 代码仓库 Dash 文档 代码仓库 BlueBream 文档 代码仓库 Quixote 文档 代码仓库 借用 @dongweiming 的一些经验，</description></item></channel></rss>
+Sanic Tornado 其他 Dash 各框架官网及文档地址： Django 文档 代码仓库 web2py 文档 代码仓库 Flask 文档 代码仓库 Bottle 文档 代码仓库 Pyramid 文档 代码仓库 TurboGears 文档 代码仓库 CherryPy 文档 代码仓库 Falcon 文档 代码仓库 Hug 文档 代码仓库 FastAPI 文档 代码仓库 Sanic 文档 代码仓库 Grok 文档 代码仓库 Tornado 文档 代码仓库 Dash 文档 代码仓库 BlueBream 文档 代码仓库 Quixote 文档 代码仓库 借用 @dongweiming 的一些经验，</description></item><item><title>Chrome插件集锦</title><link>https://blog.liuxing3169.cn/software/tools/chrome-extensions-collect/</link><pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate><guid>https://blog.liuxing3169.cn/software/tools/chrome-extensions-collect/</guid><description>Chrome是市场份额排前三的主流浏览器，也是备受用户喜爱的一款浏览器，Chrome插件商城有非常多令人惊叹的插件，可以满足不同的使用场景，这里记录和介绍一些程序员经常使用的插件(未完全收录，不断补充中..)。
+APK Downloader 官网地址：https://apk.support
+介绍：直接下载APK文件，然后将应用程序手动安装到您的Android设备上。
+与此类似的网站有：
+https://apkpure.com/cn https://www.apkmirror.com https://apk-dl.com https://mobile.softpedia.com/apk/ https://www.getjar.com/ https://download.cnet.com/android/ Click&amp;amp;Clean 官网地址：https://www.hotcleaner.com
+介绍：当浏览器关闭时，这款应用程序删除你的浏览历史，防止他人跟踪你的网上活动。
+Full Page Screen Capture 官网地址：https://gofullpage.com
+介绍：完整而可靠地捕获当前页面的屏幕截图，而无需请求任何额外的权限！将结果导出为PNG，JPEG或各种PDF纸张大小-所有这些都可以通过扩展程序的选项进行配置
+捕捉网页截图 - FireShot 官网地址：https://screenshot-program.com
+介绍：捕捉网页截图，编辑并将它们保存为PDF，JPEG，GIF，PNG或BMP；上传，打印，在Photoshop中打开，复制到剪贴板或电子邮件
+捕捉整个页面 捕捉可见的部分 捕捉选择部分 截图保存到磁盘为PDF，PNG和JPEG 截图复制到剪贴板 打印截图 Momentum 官网地址：https://momentumdash.com
+介绍：用具有待办事项，天气和灵感的个人仪表板替换新的标签页。 新标签页可让您保持冷静，并激发您提高工作效率。每天的照片和报价来激发灵感，设置每天的焦点并跟踪您的待办事项。在每个新标签页上，提醒您每天关注的重点，从而消除干扰并避免拖延。加入超过300万用户，并激发灵感，创造您想要的生活。
+Octotree 官网地址：https://www.octotree.io
+介绍：将您的GitHub体验提升到一个新的水平。
+特征:
+易于浏览的代码树，就像在IDE中一样 使用pjax快速浏览文件 显示拉取请求更改 支持私有存储库 二维码生成器 (Quick QR) 官网地址：https://high-qr-code-generator.com
+介绍：Chrome上好评率最高的二维码生成器：可以方便地把当前页面转化成二维码，也可以把网页上任何文本或链接，甚至是您输入的任意内容都转化成二维码。
+主要功能如下：
+为当前页面生成二维码 为页面上任一链接生成二维码 输入任何内容生成二维码 无需联网、无需授权（安全可靠） 二维码分辨率可自行设置，支持高清二维码 支持Logo、批量生成（点击相应按钮） 支持快捷键（可设置） 支持右键菜单（可设置） 可解析网页上的描任何二维码图片：6.3后新增功能，请在『设置』-『Advanced』中开启，之后便可在二维码图片上按右键，进行『解析』（也叫『扫描』） 可下载二维码图片，下载图片文件名中会包含尺寸信息，例如：exported_qrcode_image_350.png Save as PDF 官网地址：https://pdfcrowd.</description></item></channel></rss>
