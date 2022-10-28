@@ -1,4 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>红黑军团的网络日志</title><link>https://blog.liuxing3169.cn/</link><description>Recent content on 红黑军团的网络日志</description><generator>Hugo -- gohugo.io</generator><copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.liuxing3169.cn/index.xml" rel="self" type="application/rss+xml"/><item><title>micro:bit V1板与V2板的对比</title><link>https://blog.liuxing3169.cn/program/microbit/micro-bit-v1-v2/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://blog.liuxing3169.cn/program/microbit/micro-bit-v1-v2/</guid><description>简介 V1板：
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>红黑军团的网络日志</title><link>https://blog.liuxing3169.cn/</link><description>Recent content on 红黑军团的网络日志</description><generator>Hugo -- gohugo.io</generator><copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright><lastBuildDate>Fri, 30 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.liuxing3169.cn/index.xml" rel="self" type="application/rss+xml"/><item><title>HTML最佳实践</title><link>https://blog.liuxing3169.cn/program/frontend/html-best-practices/</link><pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate><guid>https://blog.liuxing3169.cn/program/frontend/html-best-practices/</guid><description>HTML 最佳实践 编写易于维护与扩展的 HTML 文档。
+全局 以 DOCTYPE 为开头 激活标准模式需要 DOCTYPE。
+Bad:
+&amp;lt;html&amp;gt; ... &amp;lt;/html&amp;gt; Good:
+&amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html&amp;gt; ... &amp;lt;/html&amp;gt; 不要使用过时的 DOCTYPE DOCTYPE 不需要再引用 DTD 了，简单点就行。
+Bad:
+&amp;lt;!DOCTYPE HTML PUBLIC &amp;quot;-//W3C//DTD HTML 4.01//EN&amp;quot; &amp;quot;http://www.w3.org/TR/html4/strict.dtd&amp;quot;&amp;gt; Good:
+&amp;lt;!DOCTYPE html&amp;gt; 不要使用 XML 作为声明 你确定想写 XHTML?
+Bad:
+&amp;lt;?xml version=&amp;quot;1.0&amp;quot; encoding=&amp;quot;UTF-8&amp;quot; standalone=&amp;quot;yes&amp;quot;?&amp;gt; &amp;lt;!DOCTYPE html&amp;gt; Good:
+&amp;lt;!DOCTYPE html&amp;gt; 不要什么字符都转义 如果你使用 UTF-8 编写 HTML 文档，那么几乎所有字符（包括表情）都可以直接写。
+Bad:
+&amp;lt;p&amp;gt;&amp;lt;small&amp;gt;Copyright &amp;amp;copy; 2014 W3C&amp;lt;sup&amp;gt;&amp;amp;reg;&amp;lt;/sup&amp;gt;&amp;lt;/small&amp;gt;&amp;lt;/p&amp;gt; Good:
+&amp;lt;p&amp;gt;&amp;lt;small&amp;gt;Copyright © 2014 W3C&amp;lt;sup&amp;gt;®&amp;lt;/sup&amp;gt;&amp;lt;/small&amp;gt;&amp;lt;/p&amp;gt; 使用字符实体引用来转义 &amp;amp;、&amp;lt;、&amp;gt;、&amp;quot; 和 ' 为了 HTML 文档不出错，这些字符应当始终被转义。</description></item><item><title>micro:bit V1板与V2板的对比</title><link>https://blog.liuxing3169.cn/program/microbit/micro-bit-v1-v2/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://blog.liuxing3169.cn/program/microbit/micro-bit-v1-v2/</guid><description>简介 V1板：
 micro:bit 是由 BBC 设计用于英国计算机教育的基于 ARM 嵌入式系统的开源硬件。 它于2015年3月12日在 BBC 的 Make it Digital 活动中首次宣布，于2016年2月10日开始实际交付设备。
 V2板：
 2020年10月13日，发布了物理上几乎完全相同的 v2 板，该板具有Cortex-M4 F 微控制器，具有更多内存和其他新功能。
