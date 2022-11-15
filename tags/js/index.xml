@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>js on 红黑军团的网络日志</title><link>https://blog.liuxing3169.cn/tags/js/</link><description>Recent content in js on 红黑军团的网络日志</description><generator>Hugo -- gohugo.io</generator><copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright><lastBuildDate>Wed, 08 Nov 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.liuxing3169.cn/tags/js/index.xml" rel="self" type="application/rss+xml"/><item><title>JavaScript简介</title><link>https://blog.liuxing3169.cn/program/frontend/js-intro/</link><pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate><guid>https://blog.liuxing3169.cn/program/frontend/js-intro/</guid><description>什么是 JavaScript JavaScript 最初被创建的目的是使网页更生动。
+为什么叫 JavaScript？ JavaScript 在刚诞生的时候，它的名字叫 “LiveScript”。但是因为当时 Java 很流行，所以决定将一种新语言定位为 Java 的“弟弟”会有助于它的流行。
+随着 JavaScript 的发展，它已经成为了一门完全独立的语言，并且也拥有了自己的语言规范 ECMAScript。现在，它和 Java 之间没有任何关系。
+如今，JavaScript 不仅可以在浏览器中执行，也可以在服务端执行，甚至可以在任意搭载了 JavaScript 引擎 的设备中执行。
+浏览器中嵌入了 JavaScript 引擎，有时也称作“JavaScript 虚拟机”。
+不同的引擎有不同的“代号”，例如：
+V8 —— Chrome、Opera 和 Edge 中的 JavaScript 引擎。
+SpiderMonkey —— Firefox 中的 JavaScript 引擎。
+……
+还有其他一些代号，像 “Chakra” 用于 IE，“JavaScriptCore”、“Nitro” 和 “SquirrelFish” 用于 Safari，等等。
+JavaScript 能做什么，不能做什么 现代的 JavaScript 是一种“安全的”编程语言。它不提供对内存或 CPU 的底层访问，因为它最初是为浏览器创建的，不需要这些功能。
+JavaScript 的能力很大程度上取决于它运行的环境。例如，Node.js 支持允许 JavaScript 读取/写入任意文件，执行网络请求等的函数。
+浏览器中的 JavaScript 可以做与网页操作、用户交互和 Web 服务器相关的所有事情。
+浏览器中的 JavaScript 不能做什么？</description></item></channel></rss>

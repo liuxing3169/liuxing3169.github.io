@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>红黑军团的网络日志</title><link>https://blog.liuxing3169.cn/</link><description>Recent content on 红黑军团的网络日志</description><generator>Hugo -- gohugo.io</generator><copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright><lastBuildDate>Fri, 30 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.liuxing3169.cn/index.xml" rel="self" type="application/rss+xml"/><item><title>HTML最佳实践</title><link>https://blog.liuxing3169.cn/program/frontend/html-best-practices/</link><pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate><guid>https://blog.liuxing3169.cn/program/frontend/html-best-practices/</guid><description>HTML 最佳实践 编写易于维护与扩展的 HTML 文档。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>红黑军团的网络日志</title><link>https://blog.liuxing3169.cn/</link><description>Recent content on 红黑军团的网络日志</description><generator>Hugo -- gohugo.io</generator><copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.liuxing3169.cn/index.xml" rel="self" type="application/rss+xml"/><item><title>micro:bit V1板与V2板的对比</title><link>https://blog.liuxing3169.cn/program/microbit/micro-bit-v1-v2/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://blog.liuxing3169.cn/program/microbit/micro-bit-v1-v2/</guid><description>简介 V1板：
+micro:bit 是由 BBC 设计用于英国计算机教育的基于 ARM 嵌入式系统的开源硬件。 它于2015年3月12日在 BBC 的 Make it Digital 活动中首次宣布，于2016年2月10日开始实际交付设备。
+V2板：
+2020年10月13日，发布了物理上几乎完全相同的 v2 板，该板具有Cortex-M4 F 微控制器，具有更多内存和其他新功能。
+micro:bit 现在由 Micro:bit 教育基金会支持运营。
+Micro:bit 教育基金会是一家非营利性组织。他们的愿景是激励每一个孩子创造他们最好的数字未来。
+该基金会于2016年9月在创始成员（包括BBC）的支持下成立，并于2016年10月18日全面运作。基金会总部位于英国
+V1板和V2板对比 正面的功能
+序号 对比项 V1板 V2板 1 可编程按钮A+B Y Y 2 25颗独立可编程的led和光传感器 Y Y 3 引脚-GPIO Y Y 4 引脚-3伏电源 Y Y 5 引脚-接地 Y Y 6 触摸徽标 X Y 7 麦克风LED X Y 背面的功能
+序号 对比项 V1板 V2板 1 无线电和蓝牙天线 Y Y 2 处理器和温度传感器 Y Y 3 指南针 Y Y 4 加速计 Y Y 5 引脚 Y Y 6 Micro USB接口 Y Y 7 单个黄色LED灯 Y Y 8 重置按钮 Y Y 9 电池插槽 Y Y 10 USB接口芯片 Y Y 11 扬声器 X Y 12 麦克风 X Y 13 红色电源LED X Y 14 黄色USB LED X Y 15 重置和电源按钮 X Y 参考资料 https://microbit.</description></item><item><title>JavaScript简介</title><link>https://blog.liuxing3169.cn/program/frontend/js-intro/</link><pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate><guid>https://blog.liuxing3169.cn/program/frontend/js-intro/</guid><description>什么是 JavaScript JavaScript 最初被创建的目的是使网页更生动。
+为什么叫 JavaScript？ JavaScript 在刚诞生的时候，它的名字叫 “LiveScript”。但是因为当时 Java 很流行，所以决定将一种新语言定位为 Java 的“弟弟”会有助于它的流行。
+随着 JavaScript 的发展，它已经成为了一门完全独立的语言，并且也拥有了自己的语言规范 ECMAScript。现在，它和 Java 之间没有任何关系。
+如今，JavaScript 不仅可以在浏览器中执行，也可以在服务端执行，甚至可以在任意搭载了 JavaScript 引擎 的设备中执行。
+浏览器中嵌入了 JavaScript 引擎，有时也称作“JavaScript 虚拟机”。
+不同的引擎有不同的“代号”，例如：
+V8 —— Chrome、Opera 和 Edge 中的 JavaScript 引擎。
+SpiderMonkey —— Firefox 中的 JavaScript 引擎。
+……
+还有其他一些代号，像 “Chakra” 用于 IE，“JavaScriptCore”、“Nitro” 和 “SquirrelFish” 用于 Safari，等等。
+JavaScript 能做什么，不能做什么 现代的 JavaScript 是一种“安全的”编程语言。它不提供对内存或 CPU 的底层访问，因为它最初是为浏览器创建的，不需要这些功能。
+JavaScript 的能力很大程度上取决于它运行的环境。例如，Node.js 支持允许 JavaScript 读取/写入任意文件，执行网络请求等的函数。
+浏览器中的 JavaScript 可以做与网页操作、用户交互和 Web 服务器相关的所有事情。
+浏览器中的 JavaScript 不能做什么？</description></item><item><title>HTML最佳实践</title><link>https://blog.liuxing3169.cn/program/frontend/html-best-practices/</link><pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate><guid>https://blog.liuxing3169.cn/program/frontend/html-best-practices/</guid><description>HTML 最佳实践 编写易于维护与扩展的 HTML 文档。
 全局 以 DOCTYPE 为开头 激活标准模式需要 DOCTYPE。
 Bad:
 &amp;lt;html&amp;gt; ... &amp;lt;/html&amp;gt; Good:
@@ -11,13 +33,4 @@ Bad:
 &amp;lt;!DOCTYPE html&amp;gt; 不要什么字符都转义 如果你使用 UTF-8 编写 HTML 文档，那么几乎所有字符（包括表情）都可以直接写。
 Bad:
 &amp;lt;p&amp;gt;&amp;lt;small&amp;gt;Copyright &amp;amp;copy; 2014 W3C&amp;lt;sup&amp;gt;&amp;amp;reg;&amp;lt;/sup&amp;gt;&amp;lt;/small&amp;gt;&amp;lt;/p&amp;gt; Good:
-&amp;lt;p&amp;gt;&amp;lt;small&amp;gt;Copyright © 2014 W3C&amp;lt;sup&amp;gt;®&amp;lt;/sup&amp;gt;&amp;lt;/small&amp;gt;&amp;lt;/p&amp;gt; 使用字符实体引用来转义 &amp;amp;、&amp;lt;、&amp;gt;、&amp;quot; 和 ' 为了 HTML 文档不出错，这些字符应当始终被转义。</description></item><item><title>micro:bit V1板与V2板的对比</title><link>https://blog.liuxing3169.cn/program/microbit/micro-bit-v1-v2/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://blog.liuxing3169.cn/program/microbit/micro-bit-v1-v2/</guid><description>简介 V1板：
-micro:bit 是由 BBC 设计用于英国计算机教育的基于 ARM 嵌入式系统的开源硬件。 它于2015年3月12日在 BBC 的 Make it Digital 活动中首次宣布，于2016年2月10日开始实际交付设备。
-V2板：
-2020年10月13日，发布了物理上几乎完全相同的 v2 板，该板具有Cortex-M4 F 微控制器，具有更多内存和其他新功能。
-micro:bit 现在由 Micro:bit 教育基金会支持运营。
-Micro:bit 教育基金会是一家非营利性组织。他们的愿景是激励每一个孩子创造他们最好的数字未来。
-该基金会于2016年9月在创始成员（包括BBC）的支持下成立，并于2016年10月18日全面运作。基金会总部位于英国
-V1板和V2板对比 正面的功能
-序号 对比项 V1板 V2板 1 可编程按钮A+B Y Y 2 25颗独立可编程的led和光传感器 Y Y 3 引脚-GPIO Y Y 4 引脚-3伏电源 Y Y 5 引脚-接地 Y Y 6 触摸徽标 X Y 7 麦克风LED X Y 背面的功能
-序号 对比项 V1板 V2板 1 无线电和蓝牙天线 Y Y 2 处理器和温度传感器 Y Y 3 指南针 Y Y 4 加速计 Y Y 5 引脚 Y Y 6 Micro USB接口 Y Y 7 单个黄色LED灯 Y Y 8 重置按钮 Y Y 9 电池插槽 Y Y 10 USB接口芯片 Y Y 11 扬声器 X Y 12 麦克风 X Y 13 红色电源LED X Y 14 黄色USB LED X Y 15 重置和电源按钮 X Y 参考资料 https://microbit.</description></item></channel></rss>
+&amp;lt;p&amp;gt;&amp;lt;small&amp;gt;Copyright © 2014 W3C&amp;lt;sup&amp;gt;®&amp;lt;/sup&amp;gt;&amp;lt;/small&amp;gt;&amp;lt;/p&amp;gt; 使用字符实体引用来转义 &amp;amp;、&amp;lt;、&amp;gt;、&amp;quot; 和 ' 为了 HTML 文档不出错，这些字符应当始终被转义。</description></item></channel></rss>
